@@ -8,3 +8,6 @@ http_access deny !senha
 
 # touch /etc/squid3/passwd.squid
 # htpasswd /etc/squid3/passwd.squid username
+
+
+
