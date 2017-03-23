@@ -1,0 +1,29 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+** ATIVIDADE – CRIPTOGRAFIA – ETAPA 1 **
+
+Data Limite para entrega: 24/03/2017, as 23:59hs
+
+1.	Crie utilizando o GPG um par de chaves (publica e privada) com o seu próprio e-mail;
+
+2.	Publique a chave publica no Keyserver da PGP (http://keyserver.pgp.com);
+
+3.	Envie o Key ID da sua chave para o e-mail do grupo ifpe_pmr_src_2017_1@googlegroups.com
+
+4.	Utilizando a minha chave publica (lucasjr@palmares.ifpe.edu.br), publicada no Keyserver da PGP (https://pgp.mit.edu), confirme a autoria dessa mensagem através da assinatura abaixo.
+
+
+PS: Para os que concluírem as duas etapas com sucesso, receberão 1,0 ponto extra na primeira avaliação. 
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2
+
+iQEcBAEBCAAGBQJY0sg5AAoJELhURZHVqQsZCmEH/2OBGl3SyTZnIbRjyG8toyD+
+odFhpUlEqBlDX6S4znCxTV5zpGzX4oBn1z/28UPnAivEg+8zWC7Hd5x5ktJ1GXJX
+0I5KKXPOQmYiEd3dAdYX6IPqITy8Iz1nLjzkqTr5kDLUIFd6PaVYuqrtfEFR0U5u
+rbgTNzQBEGkVxbSGUdlGWdPC/YNPOKx+4kcVGcrxmEoWtZcRtsso9RAcON2IvHj6
+koTKhnzzZASLcTdLMOMz1FRAKzlJcM2Ir7Wn/AcZtnq8JtJH6RSm9Mf2qo6i2EsK
+qHZvVAwN1Ya022Aco10dhJP3juj1h/jGRY6oA2vpJbYZiXApNE1HBSHHZvuwy1A=
+=4xqo
+-----END PGP SIGNATURE-----
