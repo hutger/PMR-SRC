@@ -3,7 +3,7 @@
 Você foi contratado pela empresa TUXNET para implementar um Firewall Linux que permita que os seus serviços estejam disponibilizados na Internet. O ambiente da TUXNET pode ser observado abaixo:
 
 Inline-style: 
-![alt text](https://github.com/hutger/PMR-SRC/blob/master/Aula%2007/Atividade/Atividade_IPTABLES.png "Atividade IPTABLES")
+![alt text](https://github.com/hutger/PMR-SRC/blob/master/Aula_07/Atividade/Atividade_IPTABLES.png "Atividade IPTABLES")
 
 
 Uma tabela contemplando os nomes dos servidores, serviços, endereços IP (externos e internos) e uma breve descrição pode ser observado abaixo:
@@ -28,4 +28,4 @@ Desenvolva um _script_ com regras de filtragem e NAT utilizando o IPTables de mo
 
 Utilize como base para o desenvolvimento o _script_ publicado através do Link abaixo:
 
-[https://github.com/hutger/PMR-SRC/blob/master/Aula07/Atividade/firewall.sh](https://github.com/hutger/PMR-SRC/blob/master/Aula%2007/Atividade/firewall.sh)
+[https://github.com/hutger/PMR-SRC/blob/master/Aula_07/Atividade/firewall.sh](https://github.com/hutger/PMR-SRC/blob/master/Aula_07/Atividade/firewall.sh)
