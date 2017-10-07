@@ -2,6 +2,8 @@
 
 Você foi contratado pela empresa TUXNET para implementar um Firewall Linux que permita que os seus serviços estejam disponibilizados na Internet. O ambiente da TUXNET pode ser observado abaixo:
 
+Inline-style: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 
 
