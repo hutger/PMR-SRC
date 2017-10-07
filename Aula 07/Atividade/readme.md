@@ -3,9 +3,7 @@
 Você foi contratado pela empresa TUXNET para implementar um Firewall Linux que permita que os seus serviços estejam disponibilizados na Internet. O ambiente da TUXNET pode ser observado abaixo:
 
 Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-
-
+![alt text](https://github.com/hutger/PMR-SRC/blob/master/Aula%2007/Atividade/Atividade_IPTABLES.png "Atividade IPTABLES")
 
 
 Uma tabela contemplando os nomes dos servidores, serviços, endereços IP (externos e internos) e uma breve descrição pode ser observado abaixo:
