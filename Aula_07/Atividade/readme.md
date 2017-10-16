@@ -31,4 +31,4 @@ Utilize como base para o desenvolvimento o _script_ publicado através do Link a
 [https://github.com/hutger/PMR-SRC/blob/master/Aula_07/Atividade/firewall.sh](https://github.com/hutger/PMR-SRC/blob/master/Aula_07/Atividade/firewall.sh)
 
 
-Script Respondido: (https://raw.githubusercontent.com/hutger/PMR-SRC/master/Aula_07/Atividade/res-firewall.sh)[AQUI]
+Script Respondido: [AQUI](https://raw.githubusercontent.com/hutger/PMR-SRC/master/Aula_07/Atividade/res-firewall.sh)
