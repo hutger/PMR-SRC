@@ -29,3 +29,6 @@ Desenvolva um _script_ com regras de filtragem e NAT utilizando o IPTables de mo
 Utilize como base para o desenvolvimento o _script_ publicado através do Link abaixo:
 
 [https://github.com/hutger/PMR-SRC/blob/master/Aula_07/Atividade/firewall.sh](https://github.com/hutger/PMR-SRC/blob/master/Aula_07/Atividade/firewall.sh)
+
+
+Script Respondido: [https://raw.githubusercontent.com/hutger/PMR-SRC/master/Aula_07/Atividade/res-firewall.sh](AQUI)
